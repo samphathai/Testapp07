@@ -1,0 +1,1 @@
+const samphathai= 1;
